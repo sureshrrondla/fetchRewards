@@ -2,5 +2,5 @@
 fetchRewards
 
 
-# Database - PostgreS
+# Database - PostgreSQL
 # Scripting - Python
